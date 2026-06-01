@@ -10,4 +10,5 @@ Themen der Aufgabe:
 - git reset
 - git fetch
 - git pull
-Remote-Aenderung: Diese Zeile wurde direkt auf GitHub hinzugefuegt.
+1. Remote-Aenderung: Diese Zeile wurde direkt auf GitHub hinzugefuegt.
+2. Remote-Aenderung: Diese Zeile wurde direkt auf GitHub hinzugefuegt.
